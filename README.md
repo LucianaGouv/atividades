@@ -1,5 +1,5 @@
-Universidade Federal do Rio Grande do Norte
-Bacharelado em Ciência e Tecnologia 
+# Universidade Federal do Rio Grande do Norte
+# Bacharelado em Ciência e Tecnologia 
 
 Disciplina: Projedo de Sistemas Baseados em Aprendizado de Máquinas
 
