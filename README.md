@@ -70,5 +70,4 @@ sofisticadas para atingir acurácias superiores a 70-80%. A LeNet-5, com sua sim
 atingiu 23.46% - um resultado razoável considerando suas limitações arquiteturais.
 
 
-================================================================================
 ✅ ATIVIDADE CONCLUÍDA - TODOS OS REQUISITOS ATENDIDOS
