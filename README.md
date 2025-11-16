@@ -59,6 +59,7 @@ o desafio de classificação granular com arquiteturas simples.
 ## Conclusão:
 
 O experimento demonstrou com sucesso:
+
 ✅ Implementação de CNN (LeNet-5) adaptada para CIFAR-100
 
 ✅ Treinamento completo de 24 épocas com registro de métricas
