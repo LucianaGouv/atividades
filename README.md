@@ -1,7 +1,5 @@
 # Universidade Federal do Rio Grande do Norte
-# Bacharelado em Ciência e Tecnologia 
-
-Disciplina: Projedo de Sistemas Baseados em Aprendizado de Máquinas
+Disciplina: Projeto de Sistemas Baseados em Aprendizado de Máquinas
 
 # Atividade CIFAR-100
 📊 ANÁLISE DOS RESULTADOS - CIFAR-100
