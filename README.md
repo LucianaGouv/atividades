@@ -60,9 +60,13 @@ o desafio de classificação granular com arquiteturas simples.
 
 O experimento demonstrou com sucesso:
 ✅ Implementação de CNN (LeNet-5) adaptada para CIFAR-100
+
 ✅ Treinamento completo de 24 épocas com registro de métricas
+
 ✅ Implementação de hooks para captura de ativações intermediárias
+
 ✅ Visualização de feature maps de todas as 6 camadas
+
 ✅ Análise quantitativa e qualitativa dos resultados
 
 Os resultados confirmam que a complexidade do CIFAR-100 (100 classes) exige arquiteturas mais
